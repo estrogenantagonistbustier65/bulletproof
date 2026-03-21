@@ -6,7 +6,9 @@
 
 An agent skill that embeds verification loops into every stage of development — so you ship code that actually works, not code that looks like it works.
 
-**Author:** Artemiy Miller · [Telegram](https://t.me/artemiimillier) · [GitHub](https://github.com/artemiimillier)
+**Author:** Artemiy Miller · [Telegram](https://t.me/artemiimillier) · [GitHub](https://github.com/artemiimillier) · [Email](mailto:who.ismillerr@gmail.com)
+
+> Suggestions, bugs, ideas? Open an [issue](https://github.com/artemiimillier/bulletproof/issues) or email **who.ismillerr@gmail.com**
 
 ---
 
@@ -110,4 +112,4 @@ Built on research from: HumanLayer (context management), Trail of Bits (anti-rat
 
 MIT — use it, modify it, share it. 100% original work. All sources credited.
 
-*Built by [Artemiy Miller](https://github.com/artemiimillier) · v5.0*
+*Built by [Artemiy Miller](https://github.com/artemiimillier) · v5.0 · [who.ismillerr@gmail.com](mailto:who.ismillerr@gmail.com)*
