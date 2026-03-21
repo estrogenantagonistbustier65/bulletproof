@@ -23,3 +23,8 @@ What needs clarification from user or further research
 
 ## Best Practices Found
 (if WebSearch was used — key findings and links)
+
+## Conclusion & Recommendation
+**Recommended approach:** [which solution is best and why]
+**Key reasons:** [2-3 concrete justifications]
+**Risks of this approach:** [what to watch for]

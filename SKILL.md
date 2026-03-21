@@ -65,7 +65,8 @@ Don't dump the entire codebase into context:
 **Mode: Read-Only. No code. No changes.**
 
 - Launch parallel Explore agents (1 per area: structure, patterns, deps, tests)
-- If relevant — WebSearch for best practices
+- **WebSearch: Who has already solved this problem? How did they solve it? What is the most efficient known solution?** Don't reinvent — find the best existing approach first.
+- **Analyze all findings and make a conclusion: which solution is the BEST and why.** The research artifact must end with a clear recommendation, not just a list of options.
 - Save to `thoughts/research/YYYY-MM-DD-<task>.md`
   (see `templates/research.md` for format)
 
@@ -96,7 +97,9 @@ Don't dump the entire codebase into context:
 - Read **both** Spec (`specs/`) and Research (`thoughts/research/`)
 - Launch Plan agents to check the approach
 - Find gaps: what's unthought? What edge cases? What could break?
-- If relevant — WebSearch for best practices
+- **Be creative and proactive: anticipate ALL possible problems BEFORE writing code.** Think several steps ahead. What could go wrong in a week? A month? Under load? With unexpected user behavior? Solve problems before they exist.
+- **WebSearch: How have others solved this exact problem? What libraries/patterns exist? What's the proven best practice?** Choose the most efficient solution, not the first one that comes to mind.
+- After Plan agents verify the approach — **rewrite the plan into an improved version** incorporating all findings, edge cases, and research results. Not just patch it — rewrite it better.
 
 ### Challenge Loop (mandatory before finalizing plan)
 
@@ -108,9 +111,10 @@ Before finalizing the plan, answer 3 questions:
    If any criterion is uncovered — the plan is incomplete.
 
 2. IS THIS THE MOST EFFICIENT SOLUTION?
-   Name 2-3 alternative approaches.
+   Search: who has already solved this problem? What approach did they use?
+   Name 2-3 alternative approaches (including ones found via research).
    For each: pros, cons, effort.
-   Justify why the chosen approach is better.
+   Justify why the chosen approach is better than all alternatives.
 
 3. IS THERE "CODE FOR CODE'S SAKE"?
    Every change must directly serve acceptance criteria.
@@ -126,7 +130,9 @@ Before finalizing the plan, answer 3 questions:
 5. Repeat until no notes remain
 
 ### Questions for User
-- Only for real forks (AskUserQuestion with options)
+- Only for real forks where there's a genuine decision to make
+- Use AskUserQuestion with options
+- For each question: **recommend which option you think is best and why**
 - Don't ask the obvious
 
 ### Final Plan
