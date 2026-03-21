@@ -6,7 +6,7 @@
 
 An agent skill that embeds verification loops into every stage of development — so you ship code that actually works, not code that looks like it works.
 
-**Author:** Artemiy Miller · [Telegram](https://t.me/artemiimillier) · [GitHub](https://github.com/artemiimillier) · [Email](mailto:who.ismillerr@gmail.com) · [TG Channel](https://t.me/+0jZamDvGOeZjOWE1)
+**Author:** Artemiy Miller · [Telegram](https://t.me/artemiymiller) · [GitHub](https://github.com/artemiimillier) · [Email](mailto:who.ismillerr@gmail.com) · [TG Channel](https://t.me/+0jZamDvGOeZjOWE1)
 
 > Suggestions, bugs, ideas? Open an [issue](https://github.com/artemiimillier/bulletproof/issues) or email **who.ismillerr@gmail.com**
 >
