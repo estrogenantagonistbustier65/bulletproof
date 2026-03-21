@@ -1,6 +1,6 @@
 ---
 name: bulletproof
-description: Make your AI code bulletproof. Adaptive workflow with verification loops, false-positive-aware bug review, impact analysis, and anti-rationalization. Scales S/M/L.
+description: Use when building a feature, refactoring, fixing a complex bug, changing architecture, or starting any non-trivial coding task. 12-stage verified dev workflow from research to deploy.
 ---
 
 # Bulletproof — Adaptive Development Workflow
