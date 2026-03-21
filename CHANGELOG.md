@@ -4,7 +4,7 @@
 
 ### Renamed
 - Skill renamed from "planning" to "Bulletproof"
-- Repo: github.com/artemiymiller/bulletproof
+- Repo: github.com/artemiimillier/bulletproof
 - Slash command: /bulletproof
 
 ### Fixed (from v4 audit)

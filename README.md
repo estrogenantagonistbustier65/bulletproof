@@ -6,7 +6,7 @@
 
 An agent skill that embeds verification loops into every stage of development — so you ship code that actually works, not code that looks like it works.
 
-**Author:** Artemiy Miller · [Telegram](https://t.me/artemiymiller) · [GitHub](https://github.com/artemiymiller)
+**Author:** Artemiy Miller · [Telegram](https://t.me/artemiimillier) · [GitHub](https://github.com/artemiimillier)
 
 ---
 
@@ -31,20 +31,20 @@ Works with **Claude Code, Codex, Gemini CLI, Cursor, Windsurf, OpenCode** — an
 ```bash
 cd your-project
 mkdir -p .claude/skills
-git clone https://github.com/artemiymiller/bulletproof.git .claude/skills/bulletproof
+git clone https://github.com/artemiimillier/bulletproof.git .claude/skills/bulletproof
 ```
 
 ### Global (works in every project)
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/artemiymiller/bulletproof.git ~/.claude/skills/bulletproof
+git clone https://github.com/artemiimillier/bulletproof.git ~/.claude/skills/bulletproof
 ```
 
 ### For teams (as git submodule)
 
 ```bash
-git submodule add https://github.com/artemiymiller/bulletproof.git .claude/skills/bulletproof
+git submodule add https://github.com/artemiimillier/bulletproof.git .claude/skills/bulletproof
 git commit -m "chore: add bulletproof skill"
 ```
 
@@ -110,4 +110,4 @@ Built on research from: HumanLayer (context management), Trail of Bits (anti-rat
 
 MIT — use it, modify it, share it. 100% original work. All sources credited.
 
-*Built by [Artemiy Miller](https://github.com/artemiymiller) · v5.0*
+*Built by [Artemiy Miller](https://github.com/artemiimillier) · v5.0*

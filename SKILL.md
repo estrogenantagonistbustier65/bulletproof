@@ -5,7 +5,7 @@ description: Make your AI code bulletproof. Adaptive workflow with verification 
 
 # Bulletproof — Adaptive Development Workflow
 
-> **Author:** Artemiy Miller ([@artemiymiller](https://github.com/artemiymiller))
+> **Author:** Artemiy Miller ([@artemiimillier](https://github.com/artemiimillier))
 > **Version:** 5.0 · March 2026
 > **License:** MIT
 > **Compatible:** Claude Code, Codex, Gemini CLI, Cursor, Windsurf, OpenCode
